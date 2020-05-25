@@ -1,6 +1,6 @@
 # lambda-java-example
 
-### To create an execution role
+### To create an execution role in AWS
 
     1) Open the roles page in the IAM console.
 
@@ -18,7 +18,7 @@
 
 You can add permissions to the role later, or swap it out for a different role that's specific to a single function.
 
-### To create a Java function
+### To create a Java function in AWS
 
     1) Open the Lambda console
 
